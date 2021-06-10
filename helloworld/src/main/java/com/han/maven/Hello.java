@@ -9,5 +9,7 @@ public class Hello {
         System.out.println("Hello World!");
         System.out.println("add more branch");
         System.out.println("I am branch");
+        System.out.println("Success"); 
+        System.out.println("Success in line");
     }
 }
