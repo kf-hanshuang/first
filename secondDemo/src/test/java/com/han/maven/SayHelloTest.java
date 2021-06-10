@@ -9,6 +9,11 @@ import org.junit.Test;
  * @since <pre>06/10/2021</pre>
  */
 public class SayHelloTest {
+    @Test
+    public void successTest() throws Exception {
+        new SayHello().Success();
+
+    }
 
 
     /**

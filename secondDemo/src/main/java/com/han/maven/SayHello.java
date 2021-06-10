@@ -8,4 +8,7 @@ public class SayHello {
     public void sayHello(String name) {
         System.out.println(name + " say: Hello!");
     }
+    public void Success() {
+        System.out.println("Success!");
+    }
 }
