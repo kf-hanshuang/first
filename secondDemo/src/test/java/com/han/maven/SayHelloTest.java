@@ -12,6 +12,9 @@ public class SayHelloTest {
     @Test
     public void successTest() throws Exception {
         new SayHello().Success();
+        new SayHello().Success();
+        new SayHello().Success();
+        new SayHello().Success();
 
     }
 
