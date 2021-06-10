@@ -28,4 +28,10 @@ public class SayHelloTest {
         new SayHello().sayHello("Bill");
     }
 
+    @Test
+    public void SayHelloTest3() throws Exception {
+//TODO
+        new SayHello().sayHello("");
+    }
+
 } 
