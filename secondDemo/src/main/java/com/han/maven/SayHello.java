@@ -13,6 +13,7 @@ public class SayHello {
         System.out.println(name + " say: Hello!");
         System.out.println(name + " say: Hello!");
         System.out.println(name + " say: Hello!");
+        System.out.println(name + " say: Hello!");
     }
 
     public void Success() {
