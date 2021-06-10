@@ -1,8 +1,6 @@
 package com.han.maven;
 
 import org.junit.Test;
-import org.junit.Before;
-import org.junit.After;
 
 /**
  * SayHello Tester.
